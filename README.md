@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloprata&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-- 🌱 Atualmente estou estudando
+- 🌱 Atualmente estou estudando:
   
 <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white"> 
  
@@ -15,5 +15,6 @@
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF">
 
 
-- 📫 Contate-me no email: joao.prata@aluno.ufop.edu.br
-- 😄 Pronouns: ele/dele
+- 📫 Contate-me: joao.prata@aluno.ufop.edu.br
+  [![Linkedin Profile](https://img.shields.io/badge/-joaopaulo-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joão-paulo-prata/)
+
