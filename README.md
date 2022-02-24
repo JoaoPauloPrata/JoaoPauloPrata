@@ -6,7 +6,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloprata&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-- 🌱 Atualmente estou estudando 
-<img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white">
+- 🌱 Atualmente estou estudando
+  
+<img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white"> 
+ 
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white">
 - 📫 Contate-me no email: joao.prata@aluno.ufop.edu.br
 - 😄 Pronouns: ele/dele
