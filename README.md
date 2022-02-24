@@ -16,6 +16,8 @@
 
 
 - 📫 Contate-me: joao.prata@aluno.ufop.edu.br
+ 
+##Também pode me encontrar em:
   
   [![Linkedin Profile](https://img.shields.io/badge/-joaopaulo-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joão-paulo-prata/)
 
