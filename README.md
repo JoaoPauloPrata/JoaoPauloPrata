@@ -12,7 +12,7 @@
  
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white">
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg?style=flat" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF">
 
 
 - 📫 Contate-me no email: joao.prata@aluno.ufop.edu.br
