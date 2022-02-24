@@ -11,8 +11,9 @@
 <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white"> 
  
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white">
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 - 📫 Contate-me no email: joao.prata@aluno.ufop.edu.br
 - 😄 Pronouns: ele/dele
